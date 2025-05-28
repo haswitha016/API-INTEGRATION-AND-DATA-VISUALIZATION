@@ -44,3 +44,10 @@ Smart city data analytics,
 Climate trend analysis tools, and more.
 ## Conclusion of the task
 In this task, I learned how to get live weather data using an API and show it with simple graphs. It helped me understand how to connect Python with real-time data. This is useful for many real-world projects like weather apps or dashboards.
+
+
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/cf27981f-c9a4-45e9-9adc-b610e821b963)
+
+![Image](https://github.com/user-attachments/assets/39ef4b75-030f-4c81-adee-e1eeefcf7444)
+
